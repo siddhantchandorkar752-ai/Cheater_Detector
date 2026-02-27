@@ -1,0 +1,22 @@
+# Computer Vision & Image Processing
+opencv-python
+
+
+# Object Detection (YOLOv8)
+ultralytics
+
+# Hardware Optimized Inference (For i3 Processor CPU)
+onnxruntime
+
+# Deep Learning Core
+torch
+torchvision
+
+# Backend API
+fastapi
+uvicorn
+pydantic
+
+# Math & Data
+numpy
+scipy
